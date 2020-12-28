@@ -1,3 +1,3 @@
-module markstanden/go2--testing/testing/summy
+module markstanden/testing
 
 go 1.15
